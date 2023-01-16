@@ -2,12 +2,15 @@
 
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  : Ali Keshavarzi
+Student ID#: 138245220
+Email      : akeshavarzi@myseneca.ca
+Section    : NAA
 
 Authenticity Declaration:
+1. I do not have any previous programming expreience but I came to love programming by accidentally watching a video in youtube that was called cs50 which made my love this program.
+2. well processing is done by a processing program I think its the matrix in this situation and we write the provided code to be able to compile it and turn it into an executable program.
+3. I am hoping to be able to understand evetything in this field and be able th have good oppurtunities for future jobs.
 
 I declare this submission is the result of my own work and has not been
 shared with any other student or 3rd party content provider. This submitted
